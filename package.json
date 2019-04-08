@@ -1,0 +1,22 @@
+{
+  "name": "requests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tw5033/w2d1_requests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tw5033/w2d1_requests/issues"
+  },
+  "homepage": "https://github.com/tw5033/w2d1_requests#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
